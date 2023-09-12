@@ -6,7 +6,6 @@
   </div>
 
 <div>👋 Hi, I’m @ledhoangkhiem</div>
-<div>👀 I’m interested in art</div>
 <div>📫 Contact me: ledohoangkhiem3k@gmail.com</div>
  
  </div>
@@ -50,7 +49,7 @@
       :fire: My Stats :
     </h1>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HoangKhiem3k&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ledhoangkhiem&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 </div>
